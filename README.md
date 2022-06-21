@@ -1,16 +1,16 @@
-## Hello, I'm Kathy!
+## 🌟 Hello, I'm Kathy!
 
 <img align='right' src="https://media.giphy.com/media/ywiQkV0aAxZhlfeRcT/giphy.gif" width="200">
 
 How are you doing? I’m [@hellokathylee](https://github.com/hellokathylee) — So nice to meet you! 👋
 
-I am an aspiring software developer based in Toronto, currently studying at the University of Toronto. 🌱
+I am an aspiring software developer based in Toronto, currently studying at the University of Toronto. 👩🏻‍💻🌱
 
-I’m currently learning Java, but also had some experience with Python, Visual Basic, and C#. 🌠 Apart from doing schoolwork you can find me [drawing](https://www.behance.net/hellokathylee), organizing things or watching some cooking videos.
+I’m currently learning Java, but also had some experience with Python, Visual Basic, and C#. 🌠 Apart from doing schoolwork you can find me [drawing](https://www.behance.net/hellokathylee), organizing things or watching some cooking videos. ✍️
 
-### A bit more about me...
 <img align='left' src="https://media.giphy.com/media/Hnkg7teSAliECgiAIX/giphy.gif" width="200">
 
+A bit more about me...
 ```javascript
 const kathy = {
   pronouns: "she" | "her",
@@ -20,10 +20,10 @@ const kathy = {
 }
 ```
 
-### Say hello!
-I’m open for project collaborations! ✨ 
+### ✨ Say hello!
+I’m always open for project collaborations! 💛
 
-You can find me here! :)
+Feel free to find me here! :) <br/>
    <a href="mailto:kathyamlee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
