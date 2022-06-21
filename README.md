@@ -1,6 +1,6 @@
 ## Hello, I'm Kathy!
 
-<img align='right' src="https://media.giphy.com/media/ywiQkV0aAxZhlfeRcT/giphy.gif" width="220">
+<img align='right' src="https://media.giphy.com/media/ywiQkV0aAxZhlfeRcT/giphy.gif" width="210">
 
 How are you doing? I’m [@hellokathylee](https://github.com/hellokathylee) — So nice to meet you! 👋
 
@@ -9,6 +9,8 @@ I am an aspiring software developer based in Toronto, currently studying at the 
 I’m currently learning Java, but also had some experience with Python, Visual Basic, and C#. 🌠 Apart from doing schoolwork you can find me [drawing](https://www.behance.net/hellokathylee), organizing things or watching some cooking videos.
 
 ### A bit more about me...
+<img align='left' src="https://media.giphy.com/media/Hnkg7teSAliECgiAIX/giphy.gif" width="210">
+
 ```javascript
 const kathy = {
   pronouns: "she" | "her",
