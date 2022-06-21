@@ -19,11 +19,9 @@ const kathy = {
   hobbies: [drawing, cooking, sleeping]
 }
 ```
-
+<br/>
 ### ✨ Say hello!
-I’m always open for project collaborations! 💛
-
-Feel free to find me here! :) <br/>
+Feel free to find me here! I’m always open for project collaborations! 💛 <br/>
    <a href="mailto:kathyamlee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
