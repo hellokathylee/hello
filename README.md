@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning Java, but also had some experience with Python, Visual Basic, and C#.
 - 🌠 Apart from doing schoolwork you can find me [drawing](https://www.behance.net/hellokathylee), organizing things or watching some cooking videos.
 - ✨ I’m open for project collaborations!
+<img align='right' src="https://media.giphy.com/media/ywiQkV0aAxZhlfeRcT/giphy.gif" width="230">
