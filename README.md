@@ -20,7 +20,9 @@ const kathy = {
 }
 ```
 <br/>
+
 ### ✨ Say hello!
+
 Feel free to find me here! I’m always open for project collaborations! 💛 <br/>
    <a href="mailto:kathyamlee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
