@@ -4,7 +4,7 @@
 
 How are you doing? I’m [@hellokathylee](https://github.com/hellokathylee) — So nice to meet you! 👋
 
-I am an aspiring software developer and 2nd year student studying computer science at the University of Toronto, based in Tkaronto, Canada. 👩🏻‍💻🌱
+I am an aspiring software developer and 3rd year student studying computer science at the University of Toronto, based in Toronto, Canada. 👩🏻‍💻🌱
 
 I’m currently learning Java, but also had some experience with Python, Visual Basic, and C#. 🌠 Apart from doing schoolwork you can find me [drawing](https://www.behance.net/hellokathylee), organizing things or watching some cooking videos. ✍️
 
@@ -15,7 +15,7 @@ A bit more about me...
 const kathy = {
   pronouns: "she" | "her",
   code: [Java, Python, C, C#, HTML, CSS, JavaScript, Visual Basic],
-  tools: [Git, React, Node.js, Redux, LaTeX],
+  tools: [Git, React, Node.js, Redux, Django, LaTeX],
   hobbies: [drawing, organizing, cooking, sleeping]
 }
 ```
