@@ -4,7 +4,7 @@
 
 How are you doing? I’m [@hellokathylee](https://github.com/hellokathylee) — So nice to meet you! 👋
 
-I am an aspiring software developer and 3rd year student studying computer science at the University of Toronto, based in Toronto, Canada. 👩🏻‍💻🌱
+I am an aspiring software developer and 4th year student studying computer science at the University of Toronto, based in Toronto, Canada. 👩🏻‍💻🌱
 
 I’m currently learning Java, but also had some experience with Python, Visual Basic, and C#. 🌠 Apart from doing schoolwork you can find me [drawing](https://www.behance.net/hellokathylee), organizing things or watching some cooking videos. ✍️
 
@@ -32,7 +32,4 @@ You can find me here! I can be a little quiet sometimes, but we can talk about s
   </a>&nbsp;&nbsp;
   <a href="https://www.behance.net/hellokathylee">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/lathykee">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
